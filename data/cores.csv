@@ -1,0 +1,108 @@
+﻿nome,token,cor_css,hex,alpha
+System Colors/Light/8 Blue,--ios-system-colors-light-8-blue,"rgba(0, 136, 255, 1)",#0088FF,1
+System Colors/Light/4 Green,--ios-system-colors-light-4-green,"rgba(52, 199, 89, 1)",#34C759,1
+Fills/Light/3 Tertiary,--ios-fills-light-3-tertiary,"rgba(118, 118, 128, 0.12)",#767680,0.12
+Labels/Light/3 Tertiary,--ios-labels-light-3-tertiary,"rgba(60, 60, 67, 0.3)",#3C3C43,0.3
+Labels/Dark/4 Quaternary,--ios-labels-dark-4-quaternary,"rgba(235, 235, 245, 0.16)",#EBEBF5,0.16
+Labels/Light/2 Secondary,--ios-labels-light-2-secondary,"rgba(60, 60, 67, 0.6)",#3C3C43,0.6
+Labels/Dark/3 Tertiary,--ios-labels-dark-3-tertiary,"rgba(235, 235, 245, 0.3)",#EBEBF5,0.3
+Labels/Light/4 Quaternary,--ios-labels-light-4-quaternary,"rgba(60, 60, 67, 0.18)",#3C3C43,0.18
+Labels/Light/1 Primary,--ios-labels-light-1-primary,"rgba(0, 0, 0, 1)",#000000,1
+Labels/Dark/2 Secondary,--ios-labels-dark-2-secondary,"rgba(235, 235, 245, 0.6)",#EBEBF5,0.6
+Labels/Dark/1 Primary,--ios-labels-dark-1-primary,"rgba(255, 255, 255, 1)",#FFFFFF,1
+Fills/Dark/1 Primary,--ios-fills-dark-1-primary,"rgba(120, 120, 128, 0.36)",#787880,0.36
+Fills/Light/4 Quaternary,--ios-fills-light-4-quaternary,"rgba(116, 116, 128, 0.08)",#747480,0.08
+Fills/Dark/3 Tertiary,--ios-fills-dark-3-tertiary,"rgba(118, 118, 128, 0.24)",#767680,0.24
+Fills/Light/2 Secondary,--ios-fills-light-2-secondary,"rgba(120, 120, 128, 0.16)",#787880,0.16
+Fills/Light/1 Primary,--ios-fills-light-1-primary,"rgba(120, 120, 120, 0.2)",#787878,0.2
+Fills/Dark/2 Secondary,--ios-fills-dark-2-secondary,"rgba(120, 120, 128, 0.32)",#787880,0.32
+Fills/Dark/4 Quaternary,--ios-fills-dark-4-quaternary,"rgba(118, 118, 128, 0.18)",#767680,0.18
+System Colors/Dark/6 Teal,--ios-system-colors-dark-6-teal,"rgba(0, 210, 224, 1)",#00D2E0,1
+System Colors/Dark/8 Blue,--ios-system-colors-dark-8-blue,"rgba(0, 145, 255, 1)",#0091FF,1
+System Colors/Dark/4 Green,--ios-system-colors-dark-4-green,"rgba(48, 209, 88, 1)",#30D158,1
+System Colors/Dark/1 Red,--ios-system-colors-dark-1-red,"rgba(255, 66, 69, 1)",#FF4245,1
+System Colors/Light/10 Purple,--ios-system-colors-light-10-purple,"rgba(203, 48, 224, 1)",#CB30E0,1
+System Colors/Dark/12 Brown,--ios-system-colors-dark-12-brown,"rgba(183, 138, 102, 1)",#B78A66,1
+System Colors/Light/12 Brown,--ios-system-colors-light-12-brown,"rgba(172, 127, 94, 1)",#AC7F5E,1
+System Colors/Light/3 Yellow,--ios-system-colors-light-3-yellow,"rgba(255, 204, 0, 1)",#FFCC00,1
+System Colors/Dark/11 Pink,--ios-system-colors-dark-11-pink,"rgba(255, 55, 95, 1)",#FF375F,1
+System Colors/Light/6 Teal,--ios-system-colors-light-6-teal,"rgba(0, 195, 208, 1)",#00C3D0,1
+System Colors/Light/2 Orange,--ios-system-colors-light-2-orange,"rgba(255, 141, 40, 1)",#FF8D28,1
+System Colors/Light/5 Mint,--ios-system-colors-light-5-mint,"rgba(0, 200, 179, 1)",#00C8B3,1
+System Colors/Dark/10 Purple,--ios-system-colors-dark-10-purple,"rgba(219, 52, 242, 1)",#DB34F2,1
+System Colors/Dark/9 Indigo,--ios-system-colors-dark-9-indigo,"rgba(109, 124, 255, 1)",#6D7CFF,1
+System Colors/Light/11 Pink,--ios-system-colors-light-11-pink,"rgba(255, 45, 85, 1)",#FF2D55,1
+System Colors/Dark/3 Yellow,--ios-system-colors-dark-3-yellow,"rgba(255, 214, 0, 1)",#FFD600,1
+System Colors/Dark/7 Cyan,--ios-system-colors-dark-7-cyan,"rgba(60, 211, 254, 1)",#3CD3FE,1
+System Colors/Dark/2 Orange,--ios-system-colors-dark-2-orange,"rgba(255, 146, 48, 1)",#FF9230,1
+System Colors/Dark/5 Mint,--ios-system-colors-dark-5-mint,"rgba(0, 218, 195, 1)",#00DAC3,1
+System Colors/Light/1 Red,--ios-system-colors-light-1-red,"rgba(255, 56, 60, 1)",#FF383C,1
+System Colors/Light/7 Cyan,--ios-system-colors-light-7-cyan,"rgba(0, 192, 232, 1)",#00C0E8,1
+System Colors/Light/9 Indigo,--ios-system-colors-light-9-indigo,"rgba(97, 85, 245, 1)",#6155F5,1
+Grays/Dark/Gray 3,--ios-grays-dark-gray-3,"rgba(72, 72, 74, 1)",#48484A,1
+Grays/Light/Gray,--ios-grays-light-gray,"rgba(142, 142, 147, 1)",#8E8E93,1
+Grays/Light/Gray 5,--ios-grays-light-gray-5,"rgba(229, 229, 234, 1)",#E5E5EA,1
+Grays/Dark/Gray 4,--ios-grays-dark-gray-4,"rgba(58, 58, 60, 1)",#3A3A3C,1
+Grays/Light/Gray 3,--ios-grays-light-gray-3,"rgba(199, 199, 204, 1)",#C7C7CC,1
+Grays/Light/Gray 4,--ios-grays-light-gray-4,"rgba(209, 209, 214, 1)",#D1D1D6,1
+Grays/Dark/Gray 2,--ios-grays-dark-gray-2,"rgba(99, 99, 102, 1)",#636366,1
+Grays/Light/Gray 6,--ios-grays-light-gray-6,"rgba(242, 242, 247, 1)",#F2F2F7,1
+Grays/Dark/Gray 5,--ios-grays-dark-gray-5,"rgba(44, 44, 46, 1)",#2C2C2E,1
+Grays/Light/Gray 2,--ios-grays-light-gray-2,"rgba(174, 174, 178, 1)",#AEAEB2,1
+Grays/Dark/Gray 6,--ios-grays-dark-gray-6,"rgba(28, 28, 30, 1)",#1C1C1E,1
+x. Kit/Nested Symbol BG Dark,--ios-x-kit-nested-symbol-bg-dark,"rgba(0, 89, 179, 0.6)",#0059B3,0.6
+x. Kit/Nested Symbol BG Light,--ios-x-kit-nested-symbol-bg-light,"rgba(77, 166, 255, 0.6)",#4DA6FF,0.6
+x. Kit/Symbol BG Dark,--ios-x-kit-symbol-bg-dark,"rgba(51, 51, 51, 0.6)",#333333,0.6
+x. Kit/Symbol BG Light,--ios-x-kit-symbol-bg-light,"rgba(204, 204, 204, 0.6)",#CCCCCC,0.6
+Backgrounds/Light/Primary,--ios-backgrounds-light-primary,"rgba(255, 255, 255, 1)",#FFFFFF,1
+Backgrounds/Light/Tertiary,--ios-backgrounds-light-tertiary,"rgba(255, 255, 255, 1)",#FFFFFF,1
+Backgrounds/Light/Secondary,--ios-backgrounds-light-secondary,"rgba(242, 242, 247, 1)",#F2F2F7,1
+Backgrounds/Dark - Elevated/Primary,--ios-backgrounds-dark-elevated-primary,"rgba(28, 28, 30, 1)",#1C1C1E,1
+Backgrounds/Dark - Base/Primary,--ios-backgrounds-dark-base-primary,"rgba(0, 0, 0, 1)",#000000,1
+Backgrounds/Dark - Elevated/Secondary,--ios-backgrounds-dark-elevated-secondary,"rgba(44, 44, 46, 1)",#2C2C2E,1
+Backgrounds/Dark - Base/Secondary,--ios-backgrounds-dark-base-secondary,"rgba(28, 28, 30, 1)",#1C1C1E,1
+Backgrounds/Dark - Elevated/Tertiary,--ios-backgrounds-dark-elevated-tertiary,"rgba(58, 58, 60, 1)",#3A3A3C,1
+Backgrounds/Dark - Base/Tertiary,--ios-backgrounds-dark-base-tertiary,"rgba(44, 44, 46, 1)",#2C2C2E,1
+Backgrounds Grouped/Dark - Base/Primary,--ios-backgrounds-grouped-dark-base-primary,"rgba(0, 0, 0, 1)",#000000,1
+Backgrounds Grouped/Dark - Base/Secondary,--ios-backgrounds-grouped-dark-base-secondary,"rgba(28, 28, 30, 1)",#1C1C1E,1
+Backgrounds Grouped/Dark - Base/Tertiary,--ios-backgrounds-grouped-dark-base-tertiary,"rgba(44, 44, 46, 1)",#2C2C2E,1
+Backgrounds Grouped/Dark - Elevated/Primary,--ios-backgrounds-grouped-dark-elevated-primary,"rgba(28, 28, 30, 1)",#1C1C1E,1
+Backgrounds Grouped/Dark - Elevated/Secondary,--ios-backgrounds-grouped-dark-elevated-secondary,"rgba(44, 44, 46, 1)",#2C2C2E,1
+Backgrounds Grouped/Dark - Elevated/Tertiary,--ios-backgrounds-grouped-dark-elevated-tertiary,"rgba(58, 58, 60, 1)",#3A3A3C,1
+Backgrounds Grouped/Light/Primary,--ios-backgrounds-grouped-light-primary,"rgba(242, 242, 247, 1)",#F2F2F7,1
+Backgrounds Grouped/Light/Secondary,--ios-backgrounds-grouped-light-secondary,"rgba(255, 255, 255, 1)",#FFFFFF,1
+Backgrounds Grouped/Light/Tertiary,--ios-backgrounds-grouped-light-tertiary,"rgba(242, 242, 247, 1)",#F2F2F7,1
+Grays/Dark/Gray,--ios-grays-dark-gray,"rgba(142, 142, 147, 1)",#8E8E93,1
+Fills/Dark - Vibrant/1 Primary,--ios-fills-dark-vibrant-1-primary,"rgba(51, 51, 51, 1)",#333333,1
+Fills/Light - Vibrant/3 Tertiary,--ios-fills-light-vibrant-3-tertiary,"rgba(237, 237, 237, 1)",#EDEDED,1
+Fills/Light - Vibrant/1 Primary,--ios-fills-light-vibrant-1-primary,"rgba(204, 204, 204, 1)",#CCCCCC,1
+Fills/Light - Vibrant/2 Secondary,--ios-fills-light-vibrant-2-secondary,"rgba(224, 224, 224, 1)",#E0E0E0,1
+Fills/Dark - Vibrant/2 Secondary,--ios-fills-dark-vibrant-2-secondary,"rgba(31, 31, 31, 1)",#1F1F1F,1
+Fills/Dark - Vibrant/3 Tertiary,--ios-fills-dark-vibrant-3-tertiary,"rgba(18, 18, 18, 1)",#121212,1
+Separators/Dark/Opaque,--ios-separators-dark-opaque,"rgba(56, 56, 58, 1)",#38383A,1
+Separators/Dark/Vibrant,--ios-separators-dark-vibrant,"rgba(26, 26, 26, 1)",#1A1A1A,1
+Separators/Light/Vibrant,--ios-separators-light-vibrant,"rgba(230, 230, 230, 1)",#E6E6E6,1
+Separators/Light/Non-Opaque,--ios-separators-light-non-opaque,"rgba(0, 0, 0, 0.12)",#000000,0.12
+Separators/Dark/Non-Opaque,--ios-separators-dark-non-opaque,"rgba(255, 255, 255, 0.12)",#FFFFFF,0.12
+Separators/Light/Opaque,--ios-separators-light-opaque,"rgba(198, 198, 200, 1)",#C6C6C8,1
+Labels/Dark - Vibrant/2 Secondary,--ios-labels-dark-vibrant-2-secondary,"rgba(153, 153, 153, 1)",#999999,1
+Labels/Light - Vibrant/1 Primary,--ios-labels-light-vibrant-1-primary,"rgba(0, 0, 0, 1)",#000000,1
+Labels/Light - Vibrant/2 Secondary,--ios-labels-light-vibrant-2-secondary,"rgba(153, 153, 153, 1)",#999999,1
+Labels/Dark - Vibrant/4 Quaternary,--ios-labels-dark-vibrant-4-quaternary,"rgba(38, 38, 38, 1)",#262626,1
+Labels/Dark - Vibrant/3 Tertiary,--ios-labels-dark-vibrant-3-tertiary,"rgba(64, 64, 64, 1)",#404040,1
+Labels/Dark - Vibrant/1 Primary,--ios-labels-dark-vibrant-1-primary,"rgba(255, 255, 255, 1)",#FFFFFF,1
+Labels/Light - Vibrant/4 Quaternary,--ios-labels-light-vibrant-4-quaternary,"rgba(217, 217, 217, 1)",#D9D9D9,1
+Labels/Light - Vibrant/3 Tertiary,--ios-labels-light-vibrant-3-tertiary,"rgba(191, 191, 191, 1)",#BFBFBF,1
+x. Kit/Canvas Color,--ios-x-kit-canvas-color,"rgba(191, 191, 191, 1)",#BFBFBF,1
+Labels - Liquid Glass/Light/1 Primary,--ios-labels-liquid-glass-light-1-primary,"rgba(26, 26, 26, 1)",#1A1A1A,1
+Labels - Liquid Glass/Light/2 Secondary,--ios-labels-liquid-glass-light-2-secondary,"rgba(114, 114, 114, 1)",#727272,1
+Labels - Liquid Glass/Light/3 Tertiary,--ios-labels-liquid-glass-light-3-tertiary,"rgba(191, 191, 191, 1)",#BFBFBF,1
+Labels - Liquid Glass/Light/4 Quaternary,--ios-labels-liquid-glass-light-4-quaternary,"rgba(217, 217, 217, 1)",#D9D9D9,1
+Labels - Liquid Glass/Dark/1 Primary,--ios-labels-liquid-glass-dark-1-primary,"rgba(237, 237, 237, 1)",#EDEDED,1
+Labels - Liquid Glass/Dark/2 Secondary,--ios-labels-liquid-glass-dark-2-secondary,"rgba(138, 138, 138, 1)",#8A8A8A,1
+Labels - Liquid Glass/Dark/3 Tertiary,--ios-labels-liquid-glass-dark-3-tertiary,"rgba(64, 64, 64, 1)",#404040,1
+Labels - Liquid Glass/Dark/4 Quaternary,--ios-labels-liquid-glass-dark-4-quaternary,"rgba(38, 38, 38, 1)",#262626,1
+Fills/Light/5 Quinary,--ios-fills-light-5-quinary,"rgba(0, 0, 0, 0.02)",#000000,0.02
+Labels/Light/5 Quinary,--ios-labels-light-5-quinary,"rgba(60, 60, 67, 0.09)",#3C3C43,0.09
+Labels/Dark/5 Quinary,--ios-labels-dark-5-quinary,"rgba(235, 235, 245, 0.09)",#EBEBF5,0.09
+Fills/Dark/5 Quinary,--ios-fills-dark-5-quinary,"rgba(118, 118, 128, 0.02)",#767680,0.02

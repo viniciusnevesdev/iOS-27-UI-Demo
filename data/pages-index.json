@@ -1,0 +1,3082 @@
+[
+  {
+    "name": "Library Preview",
+    "topLevelLayers": 1,
+    "examples": [
+      {
+        "name": "Library Preview",
+        "type": "group"
+      }
+    ]
+  },
+  {
+    "name": "— — — — — — — — — — —",
+    "topLevelLayers": 0,
+    "examples": []
+  },
+  {
+    "name": "􀝥 Colors",
+    "topLevelLayers": 2,
+    "examples": [
+      {
+        "name": "Colors",
+        "type": "group"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􁄻 Materials",
+    "topLevelLayers": 4,
+    "examples": [
+      {
+        "name": "Materials",
+        "type": "group"
+      },
+      {
+        "name": "Liquid Glass - Over Dark Backgrounds",
+        "type": "group"
+      },
+      {
+        "name": "Liquid Glass - Over Light Backgrounds",
+        "type": "group"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􀅐 Text Styles and Dynamic Type",
+    "topLevelLayers": 5,
+    "examples": [
+      {
+        "name": "Dynamic Type Table - Accessibility Sizes",
+        "type": "group"
+      },
+      {
+        "name": "Dynamic Type Table",
+        "type": "group"
+      },
+      {
+        "name": "Text Styles - Dark",
+        "type": "group"
+      },
+      {
+        "name": "Text Styles - Light",
+        "type": "group"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􀧐 Layout Guides",
+    "topLevelLayers": 16,
+    "examples": [
+      {
+        "name": "_Layout Overlays/Reserved Region",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Layout Overlays/Safe Area Inset",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Layout Overlays/Layout Margin",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guide/iPhone Duo/Standard/Inner - Landscape - Folded",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guide/iPhone Duo/Standard/Inner - Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guide/iPhone Duo/Standard/Inner - Portrait - Folded",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guide/iPhone Duo/Standard/Inner - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guide/iPhone Duo/Sheets/Outer - Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guide/iPhone Duo/Standard/Outer - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guide/iPhone Duo/Sheets/Inner - Landscape - Folded",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guide/iPhone Duo/Sheets/Inner - Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guide/iPhone Duo/Sheets/Inner - Portrait - Folded",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guide/iPhone Duo/Sheets/Inner - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guide/iPhone Duo/Standard/Outer - Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guide/iPhone Duo/Sheets/Outer - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􁣳 Product Bezels",
+    "topLevelLayers": 26,
+    "examples": [
+      {
+        "name": "Bezels/iPhone 18 Pro/Silver - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone 18 Pro/Glacier - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone 18 Pro/Black - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone 18 Pro/Burgundy - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone 18 Pro Max/Silver - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone 18 Pro Max/Glacier - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone 18 Pro Max/Black - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone 18 Pro Max/Burgundy - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone Air/Space Black - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone Air/Cloud White - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone Air/Sky Blue - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone Air/Light Gold - Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone Duo/Night Sky - Inner Open Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone Duo/Night Sky - Inner Open Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone Duo/Night Sky - Outer Closed Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone Duo/Night Sky - Outer Closed Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone Duo/Star White - Inner Open Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone Duo/Star White - Inner Open Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone Duo/Star White - Outer Closed Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPhone Duo/Star White - Outer Closed Portrait",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPad mini (A17 Pro) - Space Gray - Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPad Pro (M5) 11\"/Silver - Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPad Pro (M5) 11\"/Space Black - Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPad Pro (M5) 13\"/Silver - Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Bezels/iPad Pro (M5) 13\"/Space Black - Landscape",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "— — — — — — — — — — —",
+    "topLevelLayers": 0,
+    "examples": []
+  },
+  {
+    "name": "􀟞 System",
+    "topLevelLayers": 315,
+    "examples": [
+      {
+        "name": "Wallpapers/Dark/iPad Pro M4 11",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Wallpapers/Light/iPad Pro M4 11",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Windows",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Windows/Dark/Window Controls/Inactive",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Windows/Dark/Window Controls/Active",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Windows/Light/Window Controls/Inactive",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Windows/Light/Window Controls/Active",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Windows/Dark/Resize - Floating",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Windows/Dark/Resize - Full Screen",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Windows/Light/Resize - Floating",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Windows/Light/Resize - Full Screen",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Windows/Window",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Status Bars/iPad/Dark Background/Full Screen/Menu Collapsed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Status Bars/iPad/Dark Background/Windowed/Menu Expanded",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Status Bars/iPad/Dark Background/Full Screen/Menu Expanded",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Status Bars/iPad/Light Background/Full Screen/Menu Expanded",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Status Bars/iPad/Light Background/Windowed/Menu Expanded",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Status Bars/iPad/Dark Background/Windowed/Menu Collapsed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Status Bars/iPad/Light Background/Windowed/Menu Collapsed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Status Bars/iPad/Light Background/Full Screen/Menu Collapsed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menu Bar (iPad)/Dark/Menu/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menu Bar (iPad)/Dark/Menu/Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menu Bar (iPad)/Light/Menu/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menu Bar (iPad)/Light/Menu/Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menu Bar (iPad)/Dark/App Menu/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menu Bar (iPad)/Dark/App Menu/Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menu Bar (iPad)/Light/App Menu/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menu Bar (iPad)/Light/App Menu/Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Menubar/Windowed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Menubar/Full Screen",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Home Indicators/Landscape - Dark - iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Home Indicators/Landscape - Light - iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Status Bars/􀻃/iPad/Trailing Accessories",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Status Bars/􀻃/iPad/Leading Accessories",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "System/Home Screen/􀻃/Dock - iPad/iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "System/Home Screen/􀻃/Dock - iPad/iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "System/Home Screen/Widgets/iPad/Extra Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "System/Home Screen/Widgets/iPad/Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "System/Home Screen/Widgets/iPad/Medium",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "System/Home Screen/Widgets/iPad/Small",
+        "type": "symbolMaster"
+      }
+    ]
+  },
+  {
+    "name": "— — — — — — — — — — —",
+    "topLevelLayers": 0,
+    "examples": []
+  },
+  {
+    "name": "􀈂 Activity Views",
+    "topLevelLayers": 39,
+    "examples": [
+      {
+        "name": "Activity View/􀻃/Dark/Buttons/Options",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/Buttons/Options",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/Headers/Title + Subtitle + Drill-in Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/Headers/Title + Pop Up Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/Headers/Title + Pop Up Button + Drill-in Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/Headers/SharePlay",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/Headers/Title + Subtitle + Drill-in Shaped Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/Headers/Title + Subtitle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/Buttons/SharePlay Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/Buttons/Send Copy",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/Buttons/Collaborate",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/App",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/Person",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/List/List Row",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/Headers/Title + Subtitle + Drill-in Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/Headers/Title + Pop Up Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/Headers/Title + Pop Up Button + Drill-in Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/Headers/SharePlay",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/Headers/Title + Subtitle + Drill-in Shaped Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/Headers/Title + Subtitle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/Buttons/SharePlay Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/Buttons/Send Copy",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/Buttons/Collaborate",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Thumbnails/90pt",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Thumbnails/64pt",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Notification Badge",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Options",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Person - Photo - Double",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Person - Photo - Single",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/App",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/Person",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/List/List Row",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Dark/Contents",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/􀻃/Light/Contents",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/Light/Card - Half Height",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/Dark/Card - Full Height",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/Light/Card - Full Height",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Activity View/Dark/Card - Half Height",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􀍡 Action Sheets",
+    "topLevelLayers": 5,
+    "examples": [
+      {
+        "name": "Action Sheets/Dark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Action Sheets/Light",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Action Sheet/Light",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Action Sheet/Dark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􀇾 Alerts",
+    "topLevelLayers": 19,
+    "examples": [
+      {
+        "name": "Examples/Alert/Light",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Alert/Dark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/􀻃/Dark/3 Destructive",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/􀻃/Dark/2 Secondary",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/􀻃/Dark/1 Primary",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/Dark/Buttons Stacked",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/Dark/Input Field x 2",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/Dark/Input Field x 1",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/Dark/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/􀻃/Light/3 Destructive",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/􀻃/Light/2 Secondary",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/􀻃/Light/1 Primary",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/Light/Buttons Stacked",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/Light/Input Field x 2",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/Light/Input Field x 1",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/Light/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/Dark/Overlay",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Alerts/Light/Overlay",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􁸞 Buttons",
+    "topLevelLayers": 265,
+    "examples": [
+      {
+        "name": "Buttons/Dark/Large/Bordered/Symbol/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Bordered/Symbol/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Bordered/Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Bordered/Text/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Bordered/Symbol + Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Bordered/Symbol + Text/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Medium/Bordered/Symbol/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Medium/Bordered/Symbol/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Medium/Bordered/Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Medium/Bordered/Text/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Medium/Bordered/Symbol + Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Medium/Bordered/Symbol + Text/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Small/Bordered/Symbol/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Small/Bordered/Symbol/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Small/Bordered/Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Small/Bordered/Text/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Small/Bordered/Symbol + Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Small/Bordered/Symbol + Text/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Bordered Prominent/Symbol/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Bordered Prominent/Symbol/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Bordered Prominent/Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Bordered Prominent/Text/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Bordered Prominent/Symbol + Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Bordered Prominent/Symbol + Text/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Medium/Bordered Prominent/Symbol/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Medium/Bordered Prominent/Symbol/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Medium/Bordered Prominent/Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Medium/Bordered Prominent/Text/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Medium/Bordered Prominent/Symbol + Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Medium/Bordered Prominent/Symbol + Text/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Small/Bordered Prominent/Symbol/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Small/Bordered Prominent/Symbol/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Small/Bordered Prominent/Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Small/Bordered Prominent/Text/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Small/Bordered Prominent/Symbol + Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Small/Bordered Prominent/Symbol + Text/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Default/Borderless/Symbol/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Default/Borderless/Symbol/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Default/Borderless/Text/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Buttons/Dark/Large/Default/Borderless/Text/1 - Idle",
+        "type": "symbolMaster"
+      }
+    ]
+  },
+  {
+    "name": "􀎘 Color Pickers",
+    "topLevelLayers": 10,
+    "examples": [
+      {
+        "name": "Color Pickers/􀻃/Color Grid",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Color Pickers/􀻃/Dark/Swatches",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Color Pickers/􀻃/Dark/Opacity Meter",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Color Pickers/􀻃/Light/Swatches",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Color Pickers/􀻃/Light/Opacity Meter",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Color Pickers/Dark/iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Color Pickers/Light/iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Color Pickers/Dark/iPhone",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Color Pickers/Light/iPhone",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􀉉 Date and Time Pickers",
+    "topLevelLayers": 51,
+    "examples": [
+      {
+        "name": "Examples/Date and Time Picker/Light",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Date and Time Picker/Dark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Wheel/Dark/Time Picker",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Wheel/Light/Time Picker",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Segmented Control/􀻃/Dark/Button Active",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Segmented Control/􀻃/Dark/Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Segmented Control/􀻃/Light/Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Segmented Control/􀻃/Light/Button Active",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dark/AM-PM",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dark/Time",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Light/AM-PM",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Light/Time Picker Time Light",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dark/Dates/Current and Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dates/Light/Current and Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dark/Dates/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dates/Light/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dark/Dates/Current",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dates/Light/Current",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dark/Dates/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dates/Light/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dark/Date Picker Week",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Light/Date Picker Week",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dark/Date Picker Month",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Light/Date Picker Month",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dark/Time Picker",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Light/Time Picker",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Dark/Date Picker Header Collapsed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/􀻃/Light/Date Picker Header Collapsed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Compact Picker/Dark/Date and Time",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Inline Picker/Dark/Date and Time",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Compact Picker/Light/Date and Time",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Inline Picker/Light/Date and Time",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Compact Picker/Dark/Time",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Inline Picker/Dark/Time",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Compact Picker/Light/Time",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Inline Picker/Light/Time",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Compact Picker/Dark/Date",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Inline Picker/Dark/Date",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Compact Picker/Light/Date",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Date and Time Pickers/Inline Picker/Light/Date",
+        "type": "symbolMaster"
+      }
+    ]
+  },
+  {
+    "name": "􀓔 Empty States",
+    "topLevelLayers": 7,
+    "examples": [
+      {
+        "name": "Examples/Empty State/Light/Large Symbol",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Empty State/Light/Symbol in Circle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Empty State/Light/Title and Subtitle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Empty State/Large Symbol",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Empty State/Symbol in Circle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Empty State/Title and Subtitle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􀎽 FaceID",
+    "topLevelLayers": 3,
+    "examples": [
+      {
+        "name": "FaceID/Authenticating",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "FaceID/Success",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􀇳 Keyboards",
+    "topLevelLayers": 386,
+    "examples": [
+      {
+        "name": "Keyboard/Dark/iPad/Lower Case",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPad/Upper Case",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/iPad/Keys/Command-Right",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/iPad/Keys/Command-Left",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/iPad/Keys/Return",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/iPad/Keys/Return - Prominent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/iPad/Keys/1-Story-Punctuation",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/iPad/Keys/2-Story-Punctuation",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/iPad/Keys/2-Story-Upper",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/iPad/Keys/2-Story-Lower",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Keyboard/Dark/iPad/Lower Case",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Keyboard/Dark/iPad/Upper Case",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPad/Suggestions",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Toolbar",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Toolbar Action",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find and Replace",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find/Previous/Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find/Previous/Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find/Next/Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find/Search Menu",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find/Next/Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find/Text Field/Placeholder",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find/Text Field/Value",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find/Done/Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find/Previous and Next",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find/Done/Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find and Replace/Previous/Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find and Replace/Previous/Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find and Replace/Next/Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find and Replace/Next/Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find and Replace/Replace Field/Empty",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find and Replace/Replace Field/Value",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find and Replace/Find Field/Empty",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/iPhone/Accessories/Find and Replace/Find Field/Value",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/iPhone/Keys - Number Pad/Delete",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/iPhone/Keys - Number Pad/0",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/iPhone/Keys - Number Pad/Number",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/Keys/iPhone/Key-Punctuation (not capitalized)",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Keyboard/Dark/􀻃/iPhone/Bottom Controls/ABC and Mic",
+        "type": "symbolMaster"
+      }
+    ]
+  },
+  {
+    "name": "􀌇 Lists",
+    "topLevelLayers": 118,
+    "examples": [
+      {
+        "name": "Examples/Lists/Dark/Grouped",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/Dark/Grouped Table View",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/Dark/Footer/Footer",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/Dark/Header/Extra Prominent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/Dark/Header/Prominent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Extra Prominent/Trailing/Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Extra Prominent/Trailing/Detail + Disclsoure",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Extra Prominent/Trailing/Image",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Extra Prominent/Trailing/Action",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Extra Prominent/Leading/Title + Subtitle + Image",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Extra Prominent/Leading/Title + Supertitle + Subtitle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Extra Prominent/Leading/Title + Supertitle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Extra Prominent/Leading/Title + Subtitle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Extra Prominent/Leading/Title",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Extra Prominent/Leading/Title + Supertitle + Image",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Prominent/Leading/Title + Subtitle + Image",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Prominent/Leading/Title + Supertitle + Subtitle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Prominent/Leading/Title + Supertitle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Prominent/Leading/Title + Subtitle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Prominent/Leading/Title",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Headers/Prominent/Leading/Title + Supertitle + Image",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Editing/Editing Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Editing/Editing Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Editing/Insert",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Editing/Delete",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Accessories - Trailing/Disclosure Expanded",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Accessories - Trailing/Disclosure Collapsed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Accessories - Trailing/Date and Time Picker",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Accessories - Trailing/Stepper",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Accessories - Trailing/Toggle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Accessories - Trailing/Pop-up Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Accessories - Trailing/Symbol",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Accessories - Trailing/Info",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Accessories - Trailing/Checkmark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Accessories - Trailing/Disclosure",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Accessories - Trailing/Drill In",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/􀻃/Dark/Rows/Accessories - Trailing/Move",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/Dark/Buttons/Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/Dark/Buttons/Destructive",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Lists/Dark/Buttons/Default",
+        "type": "symbolMaster"
+      }
+    ]
+  },
+  {
+    "name": "􀆏 Menus",
+    "topLevelLayers": 109,
+    "examples": [
+      {
+        "name": "Edit Menu/Dark/􀻃/Selection",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Edit Menu/Dark/Text Selection",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Edit Menu/Dark/􀻃/Menu Indicator",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Edit Menu/Dark/􀻃/Action/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Edit Menu/Dark/􀻃/Action/Destructive",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Edit Menu/Dark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Edit Menu/Light/􀻃/Selection",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Edit Menu/Light/Text Selection",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Edit Menu/Light/􀻃/Menu Indicator",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Edit Menu/Light/􀻃/Action/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Edit Menu/Light/􀻃/Action/Destructive",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Edit Menu/Light",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Menus/Light",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Menus/Dark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/Light/iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/Light/iPad with Shortcuts",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Section Title",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Separator",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Selection/Hide",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Selection/Show",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Quick Action/Selection/Show",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Right Accessory/Submenu",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Menu Item Symbol/Show",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Menu Item Symbol/Hide",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Quick Action Symbol",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Right Accessory/Keyboard Shortcut",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Right Accessory/Shortcuts/Command (􀆔)",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Right Accessory/Shortcuts/Shift (􀆝)",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Right Accessory/Shortcuts/Option (􀆕)",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Right Accessory/Shortcuts/Control (􀆍)",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Menu Item - Selectable/Title + Subtitle, Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Menu Item - Selectable/Title + Subtitle, Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Menu Item/Title + Subtitle, Destructive",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Menu Item/Title + Subtitle, Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Menu Item/Title + Subtitle, Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Menu Item - Selectable/Title, Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Menu Item - Selectable/Title, Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Menu Item/Title, Destructive",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Menu Item/Title, Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Menus/􀻃/Light/iPad/Menu Item/Title, Default",
+        "type": "symbolMaster"
+      }
+    ]
+  },
+  {
+    "name": "􀍠 Page Controls",
+    "topLevelLayers": 45,
+    "examples": [
+      {
+        "name": "Page Control/Dark/Background/8+ Dots, Last Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/􀻃/Dots - Dark/4pt",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/􀻃/Dots - Dark/6pt",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/􀻃/Dots - Dark/Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/􀻃/Dots - Dark/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/􀻃/Dots - Light/4pt",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/􀻃/Dots - Light/6pt",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/􀻃/Dots - Light/Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/􀻃/Dots - Light/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/Background/8+ Dots, Middle Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/Background/8+ Dots, First Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/Background/7 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/Background/6 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/Background/5 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/Background/4 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/Background/3 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/Background/2 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/No Background/8+ Dots, Last Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/No Background/8+ Dots, Middle Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/No Background/8+ Dots, First Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/No Background/7 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/No Background/6 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/No Background/5 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/No Background/4 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/No Background/3 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Dark/No Background/2 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/Background/8+ Dots, Last Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/Background/8+ Dots, Middle Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/Background/8+ Dots, First Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/Background/7 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/Background/6 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/Background/5 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/Background/4 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/Background/3 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/Background/2 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/No Background/8+ Dots, Last Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/No Background/8+ Dots, Middle Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/No Background/8+ Dots, First Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/No Background/7 Dots",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Page Control/Light/No Background/6 Dots",
+        "type": "symbolMaster"
+      }
+    ]
+  },
+  {
+    "name": "􀌸 Popovers",
+    "topLevelLayers": 27,
+    "examples": [
+      {
+        "name": "Popovers (iPad Only)/Dark/Bottom Trailing",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Dark/Bottom Middle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Dark/Bottom Leading",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Dark/Trailing Bottom",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Dark/Leading Bottom",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Dark/Trailing Middle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Dark/Leading Middle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Dark/Trailing Top",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Dark/Leading Top",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Dark/Top Leading",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Dark/Top Middle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Dark/Top Trailing",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Dark - Presentation Controller",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light/Bottom Trailing",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light/Bottom Middle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light/Bottom Leading",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light/Trailing Bottom",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light/Leading Bottom",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light/Trailing Middle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light/Leading Middle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light/Trailing Top",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light/Leading Top",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light/Top Leading",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light/Top Middle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light/Top Trailing",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Popovers (iPad Only)/Light - Presentation Controller",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􀴽 Progress Indicators",
+    "topLevelLayers": 11,
+    "examples": [
+      {
+        "name": "Progress Indicators/Dark/Table View Row",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Progress Indicators/Dark/Indeterminate Spinner - Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Progress Indicators/Dark/Indeterminate Spinner - Regular",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Progress Indicators/Dark/Indeterminate Spinner - Small",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Progress Indicators/Dark/Indeterminate Spinner with Label",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Progress Indicators/Light/Table View Row",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Progress Indicators/Light/Indeterminate Spinner - Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Progress Indicators/Light/Indeterminate Spinner - Regular",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Progress Indicators/Light/Indeterminate Spinner - Small",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Progress Indicators/Light/Indeterminate Spinner with Label",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􀿴 Segmented Controls",
+    "topLevelLayers": 17,
+    "examples": [
+      {
+        "name": "Segmented Controls/􀻃/Dark/1 - Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/􀻃/Dark/5 - Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/􀻃/Light/1 - Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/􀻃/Dark/3 - Touch",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/􀻃/Light/3 - Touch",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/􀻃/Light/5 - Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/Dark/Large/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/Light/Large/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/Dark/Large/1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/Light/Large/1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/Dark/Small/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/Light/Small/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/Dark/Small/1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/Light/Small/1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/􀻃/Glass/Dark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Segmented Controls/􀻃/Glass/Light",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􀽺 Sheets",
+    "topLevelLayers": 51,
+    "examples": [
+      {
+        "name": "Sheets/Dark/iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Landscape/Inner - Folded/Small Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Landscape/Inner - Folded/Medium Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Landscape/Inner - Folded/Large Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Landscape/Inner - Folded/Full Screen",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Landscape/Inner/Small Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Landscape/Inner/Medium Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Landscape/Inner/Large Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Landscape/Inner/Full Screen",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Portrait/Inner/Small Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Portrait/Inner/Medium Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Portrait/Inner/Large Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Portrait/Inner/Full Screen",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Landscape/Outer/Small Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Landscape/Outer/Medium Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Landscape/Outer/Large Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Landscape/Outer/Full Screen",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Portrait/Outer/Small Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Portrait/Outer/Medium Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Portrait/Outer/Large Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Dark/iPhone Duo/Portrait/Outer/Full Screen",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sheets/􀻃/Overlay/Dark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sheets/Dark/iPhone/Inspector",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sheets/Dark/iPhone/Medium Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sheets/Dark/iPhone/Large Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sheets/Light/iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Landscape/Inner - Folded/Small Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Landscape/Inner - Folded/Medium Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Landscape/Inner - Folded/Large Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Landscape/Inner - Folded/Full Screen",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Landscape/Inner/Small Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Landscape/Inner/Medium Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Landscape/Inner/Large Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Landscape/Inner/Full Screen",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Portrait/Inner/Small Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Portrait/Inner/Medium Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Portrait/Inner/Large Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Portrait/Inner/Full Screen",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Landscape/Outer/Small Detent",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Sheet/Light/iPhone Duo/Landscape/Outer/Medium Detent",
+        "type": "symbolMaster"
+      }
+    ]
+  },
+  {
+    "name": "􀏚 Sidebars",
+    "topLevelLayers": 55,
+    "examples": [
+      {
+        "name": "Sidebar/􀻃/Dark/Items/Trailing/Toggle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Items/Trailing/Symbol",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Items/Trailing/Info",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Items/Trailing/Submenu",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Items/Trailing/Checkmark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Items/Trailing/Detail only",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Items/Leading/Symbols",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Items/Leading/Titles",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Items/Leading/Delete Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Items/Leading/Composed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/States/Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/States/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/States/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/Dark/Items/Level 2",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/Dark/Items/Level 1",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/Dark/Items/Level 0",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/Dark/Header/Header",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Search/Value",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Search/Placeholder",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Navigation Bar/Button Text",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Dark/Navigation Bar/Button Symbol",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/Items/Trailing/Toggle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/Items/Trailing/Symbol",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/Items/Trailing/Info",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/Items/Trailing/Submenu",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/Items/Trailing/Checkmark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/Items/Trailing/Detail only",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/Items/Leading/Symbols",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/Items/Leading/Titles",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/Items/Leading/Delete Button",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/Items/Leading/Composed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/States/Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/States/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Light/States/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/Light/Items/Level 2",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/Light/Items/Level 1",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/Light/Items/Level 0",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Submenu/Open",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/􀻃/Submenu/Closed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sidebar/Light/Header/Header",
+        "type": "symbolMaster"
+      }
+    ]
+  },
+  {
+    "name": "􀌆 Sliders",
+    "topLevelLayers": 31,
+    "examples": [
+      {
+        "name": "Sliders/􀻃/Knob/Dark/3 - Pressed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/􀻃/Knob/Dark/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/􀻃/Knob/Light/3 - Pressed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/􀻃/Knob/Light/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/􀻃/Track/Light",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/􀻃/Track/Dark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Dark/Glyphs/Mid - 4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Dark/Glyphs/Min - 4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Dark/Glyphs/Max - 4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Light/Glyphs/Mid - 4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Light/Glyphs/Min - 4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Light/Glyphs/Max - 4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Dark/Glyphs/Mid - 1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Dark/Glyphs/Min - 1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Dark/Glyphs/Max - 1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Light/Glyphs/Mid - 1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Light/Glyphs/Min - 1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Light/Glyphs/Max - 1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Dark/No Glyphs/Mid - 4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Dark/No Glyphs/Min - 4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Dark/No Glyphs/Max - 4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Light/No Glyphs/Mid - 4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Light/No Glyphs/Min - 4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Light/No Glyphs/Max - 4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Dark/No Glyphs/Mid - 1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Dark/No Glyphs/Min - 1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Dark/No Glyphs/Max - 1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Light/No Glyphs/Mid - 1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Light/No Glyphs/Min - 1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sliders/Light/No Glyphs/Max - 1 - Enabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􂻥 Steppers",
+    "topLevelLayers": 15,
+    "examples": [
+      {
+        "name": "Stepper/Light/􀻃/Decrement/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Light/􀻃/Increment/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Light/􀻃/Decrement/3 - Pressed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Light/􀻃/Increment/3 - Pressed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Light/􀻃/Decrement/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Light/􀻃/Increment/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Dark/􀻃/Decrement/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Dark/􀻃/Increment/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Dark/􀻃/Decrement/3 - Pressed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Dark/􀻃/Increment/3 - Pressed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Dark/􀻃/Decrement/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Dark/􀻃/Increment/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Light",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Stepper/Dark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􁝮 Tab Bars",
+    "topLevelLayers": 85,
+    "examples": [
+      {
+        "name": "Tab Bars/􀻃/Light/iPhone/Tab - Search",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Light/iPhone/Tab - Default/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Light/iPhone/Tab - Default/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Tab Bar/Light/iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Tab Bar/Dark/iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/iPhone/Tab Bar/Dark/Search + Keyboard",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/iPhone/Tab Bar/Light/Search + Keyboard",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/iPhone/Tab Bar/Dark/Search Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/iPhone/Tab Bar/Light/Search Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/iPhone/Tab Bar/Dark/Tabs with Search",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/iPhone/Tab Bar/Light/Tabs with Search",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/iPhone/Tab Bar/Dark/iPhone",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/iPhone/Tab Bar/Light/Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPad/Tab - Symbol/Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPad/Tab - Symbol/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPad/Tab - Label/Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPad/Tab - Label/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Light/iPad/Tab - Symbol/Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Light/iPad/Tab - Symbol/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Light/iPad/Tab - Label/Unselected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Light/iPad/Tab - Label/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/Dark/iPad (Regular)/iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/Light/iPad (Regular)/iPad",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPhone/Horizontal/Tabs - Search/5 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPhone/Horizontal/Tabs - Search/4 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPhone/Horizontal/Tabs - Search/2 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPhone/Horizontal/Tabs - Search/3 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPhone/Tab - Search",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPhone/Tab - Default/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPhone/Tab - Default/Selected",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPhone/Horizontal/Tabs - No Search/5 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPhone/Horizontal/Tabs - No Search/4 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPhone/Horizontal/Tabs - No Search/3 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Dark/iPhone/Horizontal/Tabs - No Search/2 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Light/iPhone/Horizontal/Tabs - Search/5 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Light/iPhone/Horizontal/Tabs - Search/4 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Light/iPhone/Horizontal/Tabs - Search/2 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Light/iPhone/Horizontal/Tabs - Search/3 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Light/iPhone/Horizontal/Tabs - No Search/5 Tabs",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Tab Bars/􀻃/Light/iPhone/Horizontal/Tabs - No Search/4 Tabs",
+        "type": "symbolMaster"
+      }
+    ]
+  },
+  {
+    "name": "􀅫 Text Fields",
+    "topLevelLayers": 12,
+    "examples": [
+      {
+        "name": "Text Fields/􀻃/Cursor",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Text Fields/Light/Typing",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Text Fields/Light/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Text Fields/Light/Empty Typing",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Text Fields/Light/Placeholder",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Text Fields/Dark/Typing",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Text Fields/Dark/Default",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Text Fields/Dark/Empty Typing",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Text Fields/Dark/Placeholder",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Text Fields/Dark",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Text Fields/Light",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􀜊 Toggles",
+    "topLevelLayers": 15,
+    "examples": [
+      {
+        "name": "Toggles/􀻃/Dark/Knob",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/􀻃/Light/Knob",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/Dark/Off/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/Light/Off/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/Dark/Off/3 - Pressed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/Light/Off/3 - Pressed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/Dark/Off/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/Light/Off/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/Dark/On/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/Light/On/4 - Disabled",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/Dark/On/3 - Pressed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/Light/On/3 - Pressed",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/Dark/On/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toggles/Light/On/1 - Idle",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolInstance"
+      }
+    ]
+  },
+  {
+    "name": "􀤋 Toolbars",
+    "topLevelLayers": 219,
+    "examples": [
+      {
+        "name": "Examples/Toolbar/Dark/iPhone/Bottom - Search",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/Dark/iPhone/Bottom - Controls",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/Light/iPhone/Bottom - Search",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/Light/iPhone/Bottom - Controls",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/iPad (Dark)",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/iPad (Light)",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/Dark/iPhone Duo/Landscape/Inner",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/Light/iPhone Duo/Landscape/Inner",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/Dark/iPhone Duo/Portrait/Inner",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/Light/iPhone Duo/Portrait/Inner",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/Dark/iPhone Duo/Landscape/Outer",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/Light/iPhone Duo/Landscape/Outer",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/Dark/iPhone Duo/Portrait/Outer",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Examples/Toolbar/Light/iPhone Duo/Portrait/Outer",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Dark/iPhone/Top - Sheet/Title 2 Line Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Dark/iPhone/Top - Sheet/Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Dark/iPhone/Top - Sheet/Title 2 Line Left",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Dark/iPhone/Top - Sheet/Compact Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Dark/iPhone/Top - Sheet/Title 2 Line Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Dark/iPhone/Top - Sheet/Title",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Dark/iPhone/Top - Standard/Title 2 Line Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Dark/iPhone/Top - Standard/Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Dark/iPhone/Top - Standard/Title 2 Line Left",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Dark/iPhone/Top - Standard/Compact Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Dark/iPhone/Top - Standard/Title 2 Line",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Dark/iPhone/Top - Standard/Title",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Light/iPhone/Top - Sheet/Title 2 Line Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Light/iPhone/Top - Sheet/Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Light/iPhone/Top - Sheet/Title 2 Line Left",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Light/iPhone/Top - Sheet/Compact Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Light/iPhone/Top - Sheet/Title 2 Line",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Light/iPhone/Top - Sheet/Title",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Light/iPhone/Top - Standard/Title 2 Line Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Light/iPhone/Top - Standard/Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Light/iPhone/Top - Standard/Title 2 Line Left",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Light/iPhone/Top - Standard/Compact Large",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Light/iPhone/Top - Standard/Title 2 Line",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Toolbars/Light/iPhone/Top - Standard/Title",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sheets (iPhone)/􀻃/Buttons (for Inspectors)/Dark/Primary",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Sheets (iPhone)/􀻃/Buttons (for Inspectors)/Dark/Close Button",
+        "type": "symbolMaster"
+      }
+    ]
+  },
+  {
+    "name": "— — — — — — — — — — —",
+    "topLevelLayers": 0,
+    "examples": []
+  },
+  {
+    "name": "􀐫 Change Log",
+    "topLevelLayers": 1,
+    "examples": [
+      {
+        "name": "Change Log",
+        "type": "group"
+      }
+    ]
+  },
+  {
+    "name": "Kit",
+    "topLevelLayers": 11,
+    "examples": [
+      {
+        "name": "􀻃/Kit/Swatch Background",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "􀻃/Kit/Swatch Background",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Kit Helpers",
+        "type": "text"
+      },
+      {
+        "name": "􀻃/Messages Transcript/Regular Width",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "􀻃/Messages Transcript/Compact Width",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "Layout Guides",
+        "type": "text"
+      },
+      {
+        "name": "􀻃/Guides/Safe Area Inset/Show",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "􀻃/Guides/Safe Area Inset/Hide",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "􀻃/Guides/Margin/Show",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "􀻃/Guides/Margin/Hide",
+        "type": "symbolMaster"
+      },
+      {
+        "name": "_Header",
+        "type": "symbolMaster"
+      }
+    ]
+  }
+]
